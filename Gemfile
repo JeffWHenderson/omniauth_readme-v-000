@@ -47,3 +47,5 @@ gem 'web-console', '~> 2.0', group: :development
 gem 'omniauth'
 
 gem 'omniauth-facebook'
+
+gem 'dotenv-rails'
